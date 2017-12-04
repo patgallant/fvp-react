@@ -1,0 +1,12 @@
+div.fvp-addtask-container {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    background-color: #000000;
+    color: #ffffff;
+    
+    height: 36px;
+    padding-top: 12px;
+    padding-left: 12px;
+}

@@ -1,0 +1,21 @@
+.complete {
+    text-decoration: line-through;
+}
+
+.incomplete {
+    text-decoration: none;
+}
+
+.selected {
+    text-decoration: none;
+    background-color: beige;
+}
+
+.re-added {
+    text-decoration: line-through;
+    color: gainsboro;
+}
+
+li {
+    list-style-type: none;
+}
